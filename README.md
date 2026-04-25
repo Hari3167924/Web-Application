@@ -1,5 +1,4 @@
 Login page your entering has user you want to first register and then log in the page.
-login page your entering has admin means username is admin and password is admin123.
 In react you want to run the code means first type cd project and then type npm start.
 
 
