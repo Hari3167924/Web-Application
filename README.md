@@ -1,8 +1,12 @@
-Login page your entering has user you want to first register and then log in the page.
-In react you want to run the code means first type cd project and then type npm start.
+First we want to run a code for backend and open the command prompt of backend side give this command to run for it mvn spring-boot:run.
 
+next we want to open a frontend react and open the command prompt of frontend and give this command to run for it npm start.
 
+for admin login username is admin and password is admin123.
 
+for user first we want to register and then login.
+
+And admin can add product and reduce the stock for it.
 
 
 
